@@ -1,3 +1,5 @@
+![Alt text](relative/path/to/img.jpg?raw=true "Title")
+
 ## 🛠 Technologies
 
 This project was made using only the following technologies:
@@ -14,13 +16,13 @@ Dev finance is a web system designed to help you control your finances.
 
 This project is being the basis for my learning, so I make constant changes to it.
 
-## 💡 Implementation ideas
+   ## 💡 Implementation ideas
 
-- [X] Add dark-mode and light-mode;
-- [X] Edit transactions;
-- [X] Confirm to remove an item;
-- [ ] Login system;
-- [ ] Improve responsiveness.
+    - [X] Add dark-mode and light-mode;
+    - [X] Edit transactions;
+    - [X] Confirm to remove an item;
+    - [ ] Login system;
+    - [ ] Improve responsiveness.
 
 ## ⬇ Installation
 
