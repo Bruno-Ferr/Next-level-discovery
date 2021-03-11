@@ -1,4 +1,4 @@
-![Dev Finances](assets/Dev.financesFullimage.jpeg "Title")
+![Dev Finances](assets/Dev.financesFullimage.png "Title")
 
 ## 🛠 Technologies
 
