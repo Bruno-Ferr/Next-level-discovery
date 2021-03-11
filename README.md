@@ -1,4 +1,4 @@
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
+![Dev Finances](assets/Dev.financesFullimage.jpeg "Title")
 
 ## 🛠 Technologies
 
